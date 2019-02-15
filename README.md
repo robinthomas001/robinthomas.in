@@ -1,5 +1,5 @@
-# robinthomas.in
-<DOCTYPE.html>
+
+<!DOCTYPE.html>
 <html lang="en">
 <head><title>SJCET</title>
 <meta charset="UTF-8">
